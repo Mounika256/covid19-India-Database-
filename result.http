@@ -1,0 +1,10 @@
+http://localhost:3000/states/
+###
+
+http://localhost:3000/states/8/
+### 
+
+http://localhost:3000/districts/8/
+### 
+
+http://localhost:3000/districts/6/
